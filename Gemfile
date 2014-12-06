@@ -1,0 +1,6 @@
+gem 'sinatra-activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'thin'
+gem 'sinatra'
+gem 'byebug'
